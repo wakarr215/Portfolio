@@ -13,7 +13,7 @@ body {
 }
 
 #page-wraper {
-    background: url(../images/car.JPG) no-repeat center center fixed;
+    background: url(../images/car.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -810,3 +810,4 @@ section.contact-me {
         margin-bottom: 20px;
     }
 }
+
